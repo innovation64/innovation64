@@ -1,5 +1,5 @@
 
-> “We believe that innovative authors are more likely to come from people who are independent and won’t work in a software ‘factory’ or ‘bureaucracy.”
+> “We believe that innovative authors are more likely to come from people who are independent and won’t work in a software ‘factory’ or ‘bureaucracy.” 
 > **― Steven Levy, Hackers: Heroes of the Computer Revolution**
 
 Some links:

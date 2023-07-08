@@ -1,6 +1,6 @@
 
-> Every time we do get something we reduce by a measurable amount the opportunity to get that something in the future, until ultimately the time will come when there will be no more "getting."  
-> ── *LINDSAY, R. B. (1959). ENTROPY CONSUMPTION AND VALUES IN PHYSICAL SCIENCE. American Scientist*
+> “We believe that innovative authors are more likely to come from people who are independent and won’t work in a software ‘factory’ or ‘bureaucracy.”
+> **― Steven Levy, Hackers: Heroes of the Computer Revolution**
 
 Some links:
 [GitHub](https://github.com/innovation64)

@@ -36,3 +36,7 @@ Please feel free to contact me with any kind of following ways:
 
 |[![innovation64's GitHub stats](https://github-readme-stats.vercel.app/api?username=innovation64)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/innovation64"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovation64&layout=compact&langs_count=6&exclude_repo=undergrad&theme=buefy&hide_border=true" /></a> |
 |---|---|
+
+
+# build some system
+https://innovation64.gitbook.io/qi-ling-zhi-shu/

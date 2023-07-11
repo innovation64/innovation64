@@ -10,18 +10,20 @@ Some links:
 
 ## About Me
 
-- I am bachelor who graduated from BUCM.
+- I am a bachelor who graduated from BUCM.
 - my major is information management and information system
-- Innox academy membership
+- Innox Academy membership
 - Huggingface volunteer
 - AITIME volunteer
 
 
 ## My Interest
 
-- Machine Learning & Artificial Inteligent: currently learning it.
-- brain science field,like openBCI
+- Machine Learning & Artificial Intelligence: currently learning it.
+- brain science field, like openBCI
 - AGI
+- Web3
+- Robot
 - Other: interested at _Mathematics_, _Public Health_ and _Epidemiology_, may try to get _MPH/PGDip/PGCert_ degree after finishing CS courses
 
 ## Some badges
@@ -40,3 +42,20 @@ Please feel free to contact me with any kind of following ways:
 
 # build some system
 https://innovation64.gitbook.io/qi-ling-zhi-shu/
+
+# art & design 
+[pinterest](https://www.pinterest.com/innovation64feng/) | [behance](https://www.behance.net/179801af)
+
+# full-stack
+- frontend
+- backend
+- hardware
+- UI/UX
+- draft
+- algorithm
+- bp/social group operation 
+- data analysis/mining
+- ad/cut vedio/editor/AE
+- 3d print & build models
+- team leader
+- X

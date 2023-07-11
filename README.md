@@ -10,7 +10,7 @@ Some links:
 
 ## About Me
 
-- I am a bachelor who graduated from BUCM.
+- I am a bachelor stident who graduated from BUCM.
 - my major is information management and information system
 - Innox Academy membership
 - Huggingface volunteer

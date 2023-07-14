@@ -28,8 +28,8 @@ Some links:
 
 ## Some badges
 
-![](https://skillicons.dev/icons?i=arduino,raspberrypi,azure,github,twitter,cloudflare,linux,dotnet,cs,go,java,qt,powershell,bash,c,ts,visualstudio,idea,vscode,vim,neovim,docker,postgres,mysql,nginx,postman,redis,git,github,githubactions)
-![](https://www.codewars.com/users/innovation64/badges/large)
+![](https://raw.githubusercontent.com/innovation64/Picimg/main/a8fc76d777b08c6a24d3c658816c95d.jpg)
+
 
 ## Contact Me
 

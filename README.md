@@ -7,6 +7,7 @@ Some links:
 [Website](https://davenger.top)
 [Twitter](https://twitter.com/innovation641)
 [Telegram](https://t.me/Tianfeng64)
+[discord] username:tianqi64
 
 ## About Me
 

@@ -11,11 +11,10 @@ Some links:
 
 ## About Me
 
-- I am a bachelor's student who graduated from BUCM.
-- my major is information management and information system
-- Innox Academy membership
-- Huggingface volunteer
-- AITIME volunteer
+- Bachelor's degree in Information Management and Information Systems from Beijing University of Chinese Medicine (BUCM)
+- Member of Innox Academy
+- Volunteer at Hugging Face
+- Volunteer at AITIME
 
 
 ## My Interest

@@ -14,7 +14,8 @@ Some links:
 - Bachelor's degree in Information Management and Information Systems from Beijing University of Chinese Medicine (BUCM)
 - Member of Innox Academy
 - Volunteer at Hugging Face
-- Volunteer at AITIME
+- AITIME Membership
+- BAAI-Link community co-builder
 
 
 ## My Interest

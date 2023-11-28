@@ -12,10 +12,12 @@ Some links:
 ## About Me
 
 - Bachelor's degree in Information Management and Information Systems from Beijing University of Chinese Medicine (BUCM)
-- Member of Innox Academy
+- Member of InnoX Academy
 - Volunteer at Hugging Face
 - AITIME Membership
+- DataWhale ambassador
 - BAAI-Link community co-builder
+- AI + robot startup veteran
 
 
 ## My Interest

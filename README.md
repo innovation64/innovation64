@@ -20,7 +20,6 @@ Some links:
 - Member of InnoX Academy
 - Volunteer at Hugging Face
 - AITIME Membership
-- DataWhale ambassador
 - BAAI-Link community co-builder
 - AI + robot startup veteran
 

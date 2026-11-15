@@ -14,7 +14,7 @@ I build AI that remembers. My research is on memory for LLM agents and brain-ins
 
 **Before**: AI + robotics startup · Hugging Face volunteer · BAAI-Link community co-builder · InnoX Academy
 
-**Elsewhere**: [Fireseed Discord](https://discord.gg/tawyKmdNbS) · [X @innovation641](https://x.com/innovation641) · [LinkedIn](https://www.linkedin.com/in/yang-lee-098414203/) · [Blog](https://innovation64.github.io/) · [Kaggle](https://www.kaggle.com/aikiller)
+**Elsewhere**: [Fireseed Discord](https://discord.gg/tawyKmdNbS) · [X @innovation641](https://x.com/innovation641) · [LinkedIn](https://www.linkedin.com/in/yang-lee-098414203/) · [Blog](https://innovation64.github.io/)
 
 > “We believe that innovative authors are more likely to come from people who are independent and won’t work in a software ‘factory’ or ‘bureaucracy.’”
 > — Steven Levy, *Hackers*
